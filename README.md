@@ -1,8 +1,9 @@
 # SVG Calendar
 
-This project is an XQuery module for generating SVG Calendars. I run
-it on [MarkLogic Server](http://www.marklogic.com/) but you could probably
-port it to something else if you wanted to.
+This project is an XQuery module for generating SVG Calendars. It runs
+perfectly on [MarkLogic 5](http://www.marklogic.com/). It can also run
+on 4.2 with the
+[ml-rest-lib](https://github.com/marklogic/ml-rest-lib) library.
 
 You can see it
 [running live](http://svgcal.marklogic.com/), if you wish.
