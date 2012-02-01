@@ -6,6 +6,6 @@ on 4.2 with the
 [ml-rest-lib](https://github.com/marklogic/ml-rest-lib) library.
 
 You can see it
-[running live](http://svgcal.marklogic.com/), if you wish.
+[running live](http://svgcal.nwalsh.com/), if you wish.
 
 
